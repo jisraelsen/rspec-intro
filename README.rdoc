@@ -1,0 +1,4 @@
+= Rspec Intro
+
+* Basic unit test examples using rspec 2
+* Rails 3 unit test examples using rspec 2 w/ autotest
